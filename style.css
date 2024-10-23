@@ -1,0 +1,29 @@
+h1, h2 {
+    color: blueviolet;
+  }
+  
+  p {
+    color: gray;
+  }
+      
+      ul {
+    border: 5px dotted blueviolet;
+  }
+  
+  ol {
+    border: 5px solid black;
+  }
+  
+  ol, ul {
+    padding: 5px 20px;
+    border-radius: 20px;
+  }
+      
+  h1, strong {
+    color: blueviolet;
+  }
+  
+  em {
+    color: red;
+  }
+      
